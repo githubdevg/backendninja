@@ -1,7 +1,7 @@
 package com.udemy;
 
-import com.udemy.entities.User;
-import com.udemy.repositories.UserRepository;
+import com.udemy.entity.User;
+import com.udemy.repository.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

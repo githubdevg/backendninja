@@ -1,7 +1,7 @@
 package com.udemy.controller;
 
 
-import com.udemy.entities.User;
+import com.udemy.entity.User;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

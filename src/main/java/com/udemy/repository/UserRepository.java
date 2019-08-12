@@ -1,7 +1,7 @@
-package com.udemy.repositories;
+package com.udemy.repository;
 
 
-import com.udemy.entities.User;
+import com.udemy.entity.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

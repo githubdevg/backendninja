@@ -1,4 +1,4 @@
-package com.udemy.entities;
+package com.udemy.entity;
 
 
 import javax.persistence.Entity;
